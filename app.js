@@ -1,0 +1,12 @@
+// seleciona o h1 no html
+let titulo = document.querySelector('h1');
+//inserta o texto na tag selecionada
+titulo.innerHTML = 'Jogo do número secreto';
+
+let paragrafo = document.querySelector('p');
+paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
+
+function verificarChute() {
+    console.log("Chutando");
+    
+}
