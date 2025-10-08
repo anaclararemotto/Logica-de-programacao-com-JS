@@ -105,3 +105,18 @@ function mostrarTabuada(numero) {
 
 let numeroTabuada = 5;
 mostrarTabuada(numeroTabuada)
+
+let listaGenerica = [];
+console.log(listaGenerica);
+
+let linguagensDeProgramação = [ 'JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
+console.log(linguagensDeProgramação);
+linguagensDeProgramação.push('Ruby', 'Java', 'GoLang');
+console.log(linguagensDeProgramação);
+
+let listaNomes = ['Pedro', 'Tiago', 'João'];
+console.log(listaNomes[0]);
+console.log(listaNomes[1]);
+let ultimoNome = listaNomes[listaNomes.length -1];
+console.log(ultimoNome);
+
