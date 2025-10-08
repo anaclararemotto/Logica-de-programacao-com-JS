@@ -1,7 +1,7 @@
 header {
   text-align: center;
   font-size: 30px;
-  color: #279EFF;
+  color: #d8ecfd;
 }
 
 main, html {
@@ -24,7 +24,7 @@ main, html {
   margin: 10px;
   font-size: 24px;
   border: none;
-  background-color: #3498db;
+  background-color: #d8ecfd;
   cursor: pointer;
   border-radius: 5px;
 }
